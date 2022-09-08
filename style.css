@@ -2,7 +2,7 @@ html {
     font-size: 10px;
     font-family: 'Outfit', sans-serif;
     font-weight: 400, 700;
-    background-color:lightgray;
+    background-color:hsl(220, 15%, 55%);
     
 }
 body{
@@ -25,7 +25,7 @@ body{
         height: auto;
         width: 25rem;
 }
-
+.description{margin-top: 3rem; margin-bottom: 3rem;}
 .QR-code h1{font-weight: 700; text-align: center; margin-right: 2rem; margin-left: 2rem; color: hsl(218, 44%, 22%);}
 .QR-code p{font-size: 1.5rem; font-weight: 400; text-align: center; margin-right: 2rem; margin-left: 2rem; color: hsl(220, 15%, 55%)}
 
@@ -38,3 +38,4 @@ body{
 font-size: 1.5rem; 
 padding-top: 1rem;
 }
+
